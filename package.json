@@ -1,10 +1,10 @@
 {
   "name": "sg-mongoose-helper",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "sg-mongoose-helper for node.js",
   "keywords": [],
-  "author": "hwaranglee <dev@slogup.com>",
-  "repository": { "type": "git", "url": "git://github.com/slogup/sg-mongoose-helper.git" },
+  "author": "hwaranglee <ceo@slogup.com>",
+  "repository": { "type": "git", "url": "git://github.com/teamslogup/sg-mongoose-helper.git" },
   "dependencies": {},
   "devDependencies": {
     "mocha": "*",
